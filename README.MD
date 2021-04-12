@@ -1,2 +1,2 @@
-Node version of warranty-checker project (only the search functionality). Was setup on the VM (Ubuntu with Apache2) for itnernal use in the office.<br>
+Node version of warranty-checker project (only the search functionality). Set up on VM (Ubuntu with Apache2) for itnernal use in the office.<br>
   ![ui_screenshot](Capture.PNG)
